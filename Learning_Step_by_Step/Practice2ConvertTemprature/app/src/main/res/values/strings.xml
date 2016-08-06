@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice 2 Convert Temprature</string>
+    <string name="btn_c">C</string>
+    <string name="btn_f">F</string>
+    <string name="ed_hint">Nhập giá trị nhiệt độ</string>
+    <string name="ed_result">Kết quả</string>
+</resources>
